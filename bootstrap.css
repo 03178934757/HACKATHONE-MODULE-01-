@@ -9825,7 +9825,7 @@ fieldset:disabled .btn {
 
 .bg-body-tertiary {
     --bs-bg-opacity: 1;
-    background-color: rgb(248, 245, 245) !important;
+    background-color: rgb(255, 255, 255) !important;
 }
 
 .bg-opacity-10 {

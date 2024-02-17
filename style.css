@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.content{
+    width: 100%;
+    height: 600px;
+    background-color: rgb(234, 157, 13);
+
+}
+
+.button>button{
+    color: orange;
+    border: none;
+    background-color: white;
+}
+
+.button-one{
+    margin-left: 70px;
+}
+
+.button-two{
+    margin-left: 30px;
+}
+
+.navbar-brand{
+    margin-left: 50px;
+}
+
+.delivery-one{
+    display: flex;
+}
+
+.bike{
+    padding: 10px 30px;
+    color: rgb(208, 138, 7);
+    margin-left: 30px;
+}
+
+.delivery{
+    border: 1px solid white;
+    border-radius: 30px;
+}
+.bike:hover{
+    background-color: orange;
+    color: black;
+}
+
+.pickup{
+        padding: 10px 30px;
+}
+
+.pickup:hover{
+    background-color: orange;
+    color: black;
+}
+
+.delivery{
+    background-color: white;
+}
+
+.main-heading>h1{
+    font-size: 70px;
+    color: white;
+}
+
+.main-heading{
+    margin-top: 160px;
+}
+
+.main-content,.delivery{
+    width: 600px;
+    margin-left: 60px;
+}
+
+.delivery{
+    height: 150px;
+}
+
+.adress{
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+.orange-button{
+    background-color: #F65900;
+    color: white;
+    padding: 10px;
+    border: 1px solid #F65900;
+    border-radius: 10px;
+    width: 190px;
+}
+
+.adress>span>{
+    width: 210px;
+}
+
+.pizza-img>img{
+    width: 610px;
+    margin-top: 190px;
+   filter: drop-shadow(0px -10px 15px rgb(90,90,90,0.5));
+}
